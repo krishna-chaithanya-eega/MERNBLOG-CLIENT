@@ -1,0 +1,65 @@
+.update{
+    padding-top: 50px;
+    
+
+}
+
+
+.updateImg{
+    margin-left: 200px;
+    width: 70vw;
+    height: 350px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+
+.updateForm{
+    position: relative;
+
+}
+
+.updateFormGroup{
+    margin-left: 200px;
+}
+
+
+.updateIcon{
+    width: 25px;
+    height: 25px;
+    font-size: 20px;
+    color: gray;
+
+}
+
+.updateInput{
+    font-size: 30px;
+    border: none;
+    padding: 20px;
+    width: 60vw;
+}
+.updateInput:focus{
+    outline: none;
+}
+
+.updateText{
+    font-size: 20px;
+    height: 100vh;
+}
+
+
+.updateSubmit{
+    position: absolute;
+    top: 20px;
+    right: 240px;
+    color: white;
+    background-color: teal;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 16px;
+
+
+}
+
